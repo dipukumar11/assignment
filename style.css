@@ -59,3 +59,29 @@ border:none;
     font-weight: 400;
     font-size: 20px;
 }
+
+/* end header section */
+
+.featured-section h3{
+text-align: center;
+margin-top: 100px;
+
+
+color: #272727;
+
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.featured-section p{
+text-align: center;
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: 25px;
+margin-top:20px;
+}
