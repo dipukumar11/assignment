@@ -289,3 +289,115 @@ line-height: 20px;
     
 
 }
+.email-section{
+
+background-image: url("Flower Asset/Rectangle 9.png");
+height: 300px;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+width:900px;
+margin:auto;
+
+margin-top: 100px;
+padding-top:200px;
+
+}
+.email-content{
+   
+    margin-left:200px;
+}
+.email-content h1{
+  
+color: #272727;
+
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.email-content p{
+    color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 200;
+line-height: 10px;
+margin-top: 15px;
+}
+.email-content input{width: 500px;
+    height: 34px;
+    margin-top: 30px;
+    
+border:2px solid #E55473;
+
+}
+
+.bt a{
+    color:wheat;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+}
+.bt{
+   
+    margin-top:20px;
+    display: inline-flex;
+padding: 15px 30px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+border:none;
+margin-left:150px;
+}
+.footer-section{
+    background-color: #111010;
+    
+height: 249px;
+margin-top: 50px;
+}
+.footer-content{
+padding-top: 100px;
+
+
+
+}
+.footer-content h1{
+  color:white;  
+font-family: Lato;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+}
+#fl{
+    color: #E55473;
+}
+.footer-content p{
+    Copy
+color: rgba(255, 255, 255, 0.90);
+
+font-family: Lato;
+font-size: 9px;
+font-style: normal;
+font-weight: 200;
+line-height: 15px;
+color:white;
+text-align: center;
+margin-top:10px
+}
+#all{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 8px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+display: block;
+margin-top:10px
+}
