@@ -196,6 +196,96 @@ margin-top:100px;
     font-weight: 200px;
     color:#272727
 }
+.del-section{
+    
+    height: 500px;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+margin-top:200px;
+}
+.sale{
+    padding-left: 190px;
+    padding-top: 200px;
+}
+.sale h1{
+    color: #272727;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.img-se{
+   margin-left:400px;
+   
+}
+.sale p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 15px;
+}
 
 
+.of{
+    color:#E55473;
+}
+.btn-1{
+   
+    margin-top:20px;
+    display: inline-flex;
+padding: 15px 30px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+border:none;
+margin-left:150px;
+}
+.btn-1 a{
+    color:wheat;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+}
+.insta{
+    width: 1140px;
+margin:auto;
+margin-top:100px;
 
+}
+.insta-content{
+    text-align: center;
+}
+.insta-content h1{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+}
+.insta-content p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 200;
+line-height: 20px;
+}
+
+
+.flo-sec{
+    display: flex;
+   margin-top: 100px;
+   margin-left: 200px;
+}
+.flo-sec img{
+    width:200px;
+    justify-content: center;
+    padding:10px;
+    
+
+}
