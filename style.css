@@ -85,3 +85,59 @@ font-weight: 300;
 line-height: 25px;
 margin-top:20px;
 }
+.flower-section{
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+}
+.fl-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding:10px 10px 0px 10px;
+    margin:10px;
+}
+.fl-2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding:10px 10px 0px 10px;
+margin:10px;
+
+}
+.fl-3{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding:10px 10px 0px 10px;
+margin:10px;
+}
+
+
+
+
+
+
+
+.fl-1 img{
+    width:180px;
+    height: 200px;
+   
+    
+}
+.fl-2 img{
+    width:180px;
+    height: 200px;
+}
+.fl-3 img{
+    width:180px;
+    height: 200px;
+}
+
+.tree-name{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
