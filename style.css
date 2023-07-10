@@ -91,23 +91,33 @@ margin-top:20px;
     margin-top:20px;
 }
 .fl-1{
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-    padding:10px 10px 0px 10px;
-    margin:10px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+    
 }
 .fl-2{
-    border-radius: 300px 300px 0px 0px;
-background: rgba(5, 151, 160, 0.15);
-padding:10px 10px 0px 10px;
-margin:10px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
 
 }
 .fl-3{
-    border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
-padding:10px 10px 0px 10px;
-margin:10px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
 }
 
 
@@ -119,16 +129,27 @@ margin:10px;
 .fl-1 img{
     width:180px;
     height: 200px;
-   
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding:10px 10px 0px 10px;
+    margin:10px;
     
 }
 .fl-2 img{
     width:180px;
     height: 200px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding:10px 10px 0px 10px;
+    margin:10px;
 }
 .fl-3 img{
     width:180px;
     height: 200px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding:10px 10px 0px 10px;
+    margin:10px;
 }
 
 .tree-name{
@@ -141,3 +162,40 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 }
+
+
+.wish-section{
+    width: 900px;
+height: 298px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin: auto;
+margin-top:100px;
+ display: flex;
+}
+
+.wish img{
+
+    width:300px;
+}
+.story-section{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.story-section h4{
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: 500;
+}
+#o{
+    color:tomato;
+}
+.story-section p{
+    font-size: 20px;
+    font-weight: 200px;
+    color:#272727
+}
+
+
+
